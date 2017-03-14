@@ -28,3 +28,5 @@ C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\
 C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\PanelWindow.baml
 C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\PanelWindow.g.cs
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\SecondWindow.baml
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\SecondWindow.g.cs

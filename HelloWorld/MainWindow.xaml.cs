@@ -45,6 +45,11 @@ namespace HelloWorld
             //    {
             //        uxSubmit.IsEnabled = true;
                     MessageBox.Show("Submitting password:" + uxPassword.Password);
+
+                    var window = new SecondWindow();
+                    Application.Current.MainWindow = window;
+                    Close();
+                    window.Show();
             //    }
             //}
         }
