@@ -6,8 +6,8 @@
         <ListView x:Name="uxList" Background="BlanchedAlmond" FontWeight="Bold">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn DisplayMemberBinding="{Binding Name}" Width="50" Header=""Name" />
-                    <GridViewColumn DisplayMemberBinding="{Binding Password}" Width="70" Header=""Password" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Name}" Width="50" Header="Name" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Password}" Width="70" Header="Password" />
                 </GridView>
             </ListView.View>
         </ListView>
