@@ -53,9 +53,32 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ComboWindow.xaml.cs">
+      <DependentUpon>ComboWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ControlWindow.xaml.cs">
+      <DependentUpon>ControlWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NavigatorWindow.xaml.cs">
+      <DependentUpon>NavigatorWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ResourceWindow.xaml.cs">
+      <DependentUpon>ResourceWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="SecondWindow.xaml.cs">
       <DependentUpon>SecondWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="StatusWindow.xaml.cs">
+      <DependentUpon>StatusWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ComboWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ControlWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -68,11 +91,23 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="NavigatorWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="PanelWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ResourceWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="SecondWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StatusWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -113,6 +148,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\wpf-menus-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Valentine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\wpf-world.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
