@@ -33,6 +33,14 @@ namespace HelloWorld
         {
             Close();
         }
+
+        // add
+        private void OnNew_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            // Set this to false if the New command is not available
+            e.CanExecute = true;
+        }
+        
     }
 
 }

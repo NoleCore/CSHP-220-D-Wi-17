@@ -41,3 +41,14 @@ C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\
 C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\ResourceWindow.g.cs
 C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\App.baml
 C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\ResourceWindow.baml
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\RGBControl.g.cs
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\bin\Debug\EntityFramework.dll
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\bin\Debug\EntityFramework.xml
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\RGBWindow.g.cs
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\RGBControl.baml
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\RGBWindow.baml
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\MenuWindow.baml
+C:\Users\567362\Desktop\UW C#\Winter 2\Homework\CSHP-220-D-Wi-17\HelloWorld\obj\Debug\MenuWindow.g.cs

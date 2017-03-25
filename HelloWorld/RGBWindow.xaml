@@ -1,0 +1,10 @@
+﻿<Window x:Class="HelloWorld.RGBWindow"
+        xmlns:local="clr-namespace:HelloWorld"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RGBWindow" Height="300" Width="300">
+    <Grid>
+        <local:RGBControl></local:RGBControl>
+        
+    </Grid>
+</Window>

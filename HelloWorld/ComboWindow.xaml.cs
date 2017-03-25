@@ -11,7 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-//using System.Data.Entity; // added 
+using System.Data.Entity; // added 
 
 namespace HelloWorld
 {
@@ -23,10 +23,11 @@ namespace HelloWorld
         public ComboWindow()
         {
             InitializeComponent();
-            //var sample = new SampleEntities();
-            //sample.Users.Load();
-            //uxComboBox.ItemsSource = sample.Users.Local;
+            var sample = new SampleEntities();
+            sample.Users.Load();
+            uxComboBox.ItemsSource = sample.Users.Local;
         }
+
         private void uxComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             uxGrid.DataContext = e.AddedItems[0];
